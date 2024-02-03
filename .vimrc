@@ -17,4 +17,4 @@ Plug 'yegappan/taglist'
 call plug#end() 
 
 " this has been altered (2024 update i forgot what has been altered)
-colorscheme sunbather 
+" colorscheme sunbather 
